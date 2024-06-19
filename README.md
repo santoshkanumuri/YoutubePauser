@@ -22,7 +22,7 @@ YouTube Pauser is a browser extension designed to enhance your YouTube-watching 
 3. Enable Developer Mode by toggling the switch in the top right corner.
 4. Click "Load unpacked" and select the directory where you downloaded or cloned the repository.
 
-##Usage
+## Usage
 Once installed, the extension will automatically:
 - Pause YouTube videos when you switch tabs or windows.
 - Resume YouTube videos when you return to the tab or window.
