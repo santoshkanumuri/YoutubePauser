@@ -1,4 +1,4 @@
-# YouTube Pauser
+# YouTube Pauser - PausePlay
 
 ## Overview
 
